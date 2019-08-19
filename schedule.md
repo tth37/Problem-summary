@@ -12,9 +12,9 @@
 
 ##### 0. 线性动态规划
 
-- [ ] 【题目】[打鼹鼠](https://www.luogu.org/problem/P2285)
-- [ ] 【题目】[过河](https://www.luogu.org/problem/P1052)
-- [ ] 【题目】[挤奶时间](https://www.luogu.org/problem/P2889)
+- [x] 【题目】[打鼹鼠](https://www.luogu.org/problem/P2285)
+- [x] 【题目】[过河](https://www.luogu.org/problem/P1052)
+- [x] 【题目】[挤奶时间](https://www.luogu.org/problem/P2889)
 - [ ] 【题目】演讲时间
 - [ ] 【题目】[最大子段和](https://www.luogu.org/problem/P1115)
 
