@@ -21,7 +21,7 @@
 ##### 1. 枚举型动态规划
 
 - [ ] 【题目】雇佣计划
-- [ ] 【题目】[滑雪课](https://www.luogu.org/problem/P2948)
+- [x] 【题目】[滑雪课](https://www.luogu.org/problem/P2948)
 - [ ] 【题目】[接苹果](https://www.luogu.org/problem/P2690)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjU0Njg4MDA0XX0=
