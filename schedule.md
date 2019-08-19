@@ -16,7 +16,7 @@
 - [x] 【题目】[过河](https://www.luogu.org/problem/P1052)
 - [x] 【题目】[挤奶时间](https://www.luogu.org/problem/P2889)
 - [ ] 【题目】演讲时间
-- [ ] 【题目】[最大子段和](https://www.luogu.org/problem/P1115)
+- [x] 【题目】[最大子段和](https://www.luogu.org/problem/P1115)
 
 ##### 1. 枚举型动态规划
 
