@@ -23,6 +23,13 @@
 - [ ] 【题目】雇佣计划
 - [x] 【题目】[滑雪课](https://www.luogu.org/problem/P2948)
 - [ ] 【题目】[接苹果](https://www.luogu.org/problem/P2690)
+
+##### 2. 区间类动态规划
+
+- [ ] 【题目】乘法游戏
+- [ ] 【题目】[加分二叉树]（https://www.luogu.org/problem/P1040）
+- [ ] 【题目】[删数]（https://www.luogu.org/problem/P2426）
+- [ ] 【题目】[租用游艇问题]（https://www.luogu.org/problem/P1359）
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjU0Njg4MDA0XX0=
 -->
