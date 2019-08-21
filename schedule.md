@@ -30,6 +30,14 @@
 - [ ] 【题目】[加分二叉树](https://www.luogu.org/problem/P1040)
 - [ ] 【题目】[删数](https://www.luogu.org/problem/P2426)
 - [ ] 【题目】[租用游艇问题](https://www.luogu.org/problem/P1359)
+
+##### 3.最长单调不上升子序列
+
+- [ ] 【题目】[合唱队形](https://www.luogu.org/problem/P1091)
+- [ ] 【题目】[拦截导弹](https://www.luogu.org/problem/P1020)
+- [ ] 【题目】[尼克的任务](https://www.luogu.org/problem/P1280)
+- [ ] 【题目】圣诞树
+- [ ] 【题目】[挖地雷](https://www.luogu.org/problem/P2196)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjU0Njg4MDA0XX0=
 -->
