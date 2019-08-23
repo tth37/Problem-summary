@@ -33,6 +33,10 @@ UPD: 2019/8/23
 - [ ] 【题目】[尼克的任务](https://www.luogu.org/problem/P1280)
 - [ ] 【题目】圣诞树
 - [ ] 【题目】[挖地雷](https://www.luogu.org/problem/P2196)
+
+##### 4. 最长公共子序列
+
+- [ ] 【题目】[编辑距离](https://www.luogu.org/problem/P2758)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjU0Njg4MDA0XX0=
 -->
