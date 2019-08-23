@@ -26,7 +26,7 @@ UPD: 2019/8/23
 - [x] 【题目】[删数](https://www.luogu.org/problem/P2426)
 - [x] 【题目】[租用游艇问题](https://www.luogu.org/problem/P1359)（不想做）
 
-##### 3.最长单调不上升子序列
+##### 3. 最长单调不上升子序列
 
 - [x] 【题目】[合唱队形](https://www.luogu.org/problem/P1091)
 - [x] 【题目】[拦截导弹](https://www.luogu.org/problem/P1020)
