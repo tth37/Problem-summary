@@ -1,12 +1,7 @@
-
+UPD: 2019/8/23
+已同步至 https://tth37.cn/schedule
 
 #### 动态规划专题
-
-@oy 么么哒~ 
-
-链接的语法是：`[content](url)` 
-比如说：`[打鼹鼠](https://www.luogu.org/problem/P2285)`
-我都帮你改掉啦~
 
 -----
 
@@ -33,8 +28,8 @@
 
 ##### 3.最长单调不上升子序列
 
-- [ ] 【题目】[合唱队形](https://www.luogu.org/problem/P1091)
-- [ ] 【题目】[拦截导弹](https://www.luogu.org/problem/P1020)
+- [x] 【题目】[合唱队形](https://www.luogu.org/problem/P1091)
+- [x] 【题目】[拦截导弹](https://www.luogu.org/problem/P1020)
 - [ ] 【题目】[尼克的任务](https://www.luogu.org/problem/P1280)
 - [ ] 【题目】圣诞树
 - [ ] 【题目】[挖地雷](https://www.luogu.org/problem/P2196)
