@@ -22,9 +22,9 @@ UPD: 2019/8/23
 ##### 2. 区间类动态规划
 
 - [ ] 【题目】乘法游戏
-- [ ] 【题目】[加分二叉树](https://www.luogu.org/problem/P1040)
-- [ ] 【题目】[删数](https://www.luogu.org/problem/P2426)
-- [ ] 【题目】[租用游艇问题](https://www.luogu.org/problem/P1359)
+- [x] 【题目】[加分二叉树](https://www.luogu.org/problem/P1040)
+- [x] 【题目】[删数](https://www.luogu.org/problem/P2426)
+- [ ] 【题目】[租用游艇问题](https://www.luogu.org/problem/P1359)（不想做）
 
 ##### 3.最长单调不上升子序列
 
