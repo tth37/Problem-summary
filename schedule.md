@@ -37,6 +37,8 @@ UPD: 2019/8/23
 ##### 4. 最长公共子序列
 
 - [ ] [编辑距离](https://www.luogu.org/problem/P2758)
+- [ ] [字串距离](https://www.luogu.org/problem/P1279)
+- [ ] [最长公共子序列](https://www.luogu.org/problem/P1439)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjU0Njg4MDA0XX0=
 -->
